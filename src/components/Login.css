@@ -1,0 +1,23 @@
+.container{
+    height:450px;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    flex-direction: column;
+    background-color: beige;
+    width:250px;
+  }
+  .root{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .button{
+    height: 40px;
+    width: 100px;
+    border-radius: 15px;
+  
+  }
+  .button:hover{
+    background-color: rgb(255, 94, 94);
+  }
